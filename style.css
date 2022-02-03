@@ -1,0 +1,141 @@
+.box
+{
+    color: rgb(250, 244, 244);
+    text-align: center;
+    border: 5px solid rgb(19, 18, 18);
+    border-radius: 15px;
+    background-color: rgb(17, 17, 17);
+    height: 200px;
+    width: 400px;
+    position: relative;
+    left:450px ;
+    top: 5px;
+    
+    box-shadow: 5px 5px 2px rgba(114, 10, 114, 0.877);
+}
+.box1
+{
+   
+    color: rgb(250, 244, 244);
+    text-align: center;
+    border: 5px solid rgb(19, 18, 18);
+    border-radius: 15px;
+    background-color: rgb(17, 17, 17);
+    height: 150px;
+    width: 400px; 
+    box-shadow: 5px 5px 2px rgba(114, 10, 114, 0.877);
+}
+.box2
+{
+    position: relative;
+    left: 1250px;
+    bottom: 150px;
+    
+    align-items: center;
+   
+}
+.img
+{
+width:250px;
+height:255px;
+border:2px solid red;
+background-color: aqua;
+border-radius: 50px;
+
+align-items: center;
+
+}
+.box3
+{
+    color: rgb(250, 244, 244);
+    text-align: center;
+    border: 5px solid rgb(19, 18, 18);
+    border-radius: 15px;
+    background-color: rgb(17, 17, 17);
+    height: 200px;
+    width: 400px;    
+    box-shadow: 5px 5px 2px rgba(114, 10, 114, 0.877);
+}
+.box4
+{
+    color: rgb(250, 244, 244);
+    text-align: center;
+    border: 5px solid rgb(19, 18, 18);
+    border-radius: 15px;
+    background-color: rgb(17, 17, 17);
+    height: 200px;
+    width: 400px;    
+    box-shadow: 5px 5px 2px rgba(114, 10, 114, 0.877);  
+    position: relative;
+    left: 1080px;
+    bottom: 180px;
+}
+
+
+    
+.box5{
+    text-align: center;
+    border:5px solid red;
+    border-radius: 50px;
+    background-color: greenyellow;
+    height: 100px;
+    width: 450px;
+    box-sizing: border-box;
+    box-shadow: 5px 5px 2px rgba(114, 10, 114, 0.877);
+    position: fixed;
+    left: 450px;
+    bottom: 40px;
+    z-index: 1;
+}
+.box6
+{
+    text-align: center;
+    border: 4px solid red;
+    width: 640px;
+    position: relative;
+    left: 550px;
+    background-color: aqua;
+}
+.fruit{
+    border: 2px solid grey;
+    background-color:rgb(230, 199, 121) ;
+    text-align: center;
+    height: 350px;
+    width: 310px;
+    position:relative;
+    left: 0px;
+    overflow: hidden;
+}
+.veg{
+    border: 2px solid grey;
+    background-color:rgb(230, 199, 121) ;
+    text-align: center;
+    height: 350px;
+    width: 320px;
+    position: absolute;
+    left: 315px;
+    bottom: 335px;
+    overflow: hidden;
+    
+}
+.text7{
+    font-size: 20px;
+    line-height: 30px;
+}
+.text8{
+    font-size: 20px;
+    line-height: 30px;
+}
+.item{
+    border: 2px solid grey;
+    background-color:rgb(230, 199, 121) ;
+    text-align: center;
+    height: 330px;
+    width: 635px;
+    line-height: 30px;
+    position: relative;
+    bottom: 0px;
+    left: 0px;
+    
+    
+}
